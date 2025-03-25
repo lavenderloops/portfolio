@@ -1,0 +1,74 @@
+:root {
+    --violet:#AD91C4;
+    --blue-green:#25BBC5;
+    --lemon: #CFA726;
+    --kobi: #DC9EC0;
+    --eerie: #17191C;
+    --charleston: #292B2F;
+    --dim-grey: #696B6C;
+    --bright-grey: #EBEDEE;
+    --pale-silver: #D1CBB4;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin-top: 48px;
+    padding: 12px;
+    background-color: var(--eerie);
+    color: var(--bright-grey)
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.header>.text, .content {
+    font-family: inclusive;
+}
+
+.collapsible {
+    font-family: inclusive;
+    background-color: var(--violet);
+    border: none;
+    text-align: left;
+    width: fit-content;
+    padding: 4px 8px;
+    border-radius: 2px;
+}
+
+.collapsible:hover{
+    background-color: var(--bright-grey);
+    border-bottom: 2px solid var(--violet);
+    padding: 5px 8px;
+    box-shadow: 1px 1px #c193e7;
+}
+
+.content {
+    display: none;
+    font-size: 14px;
+}
+
+.mainContainer {
+    font-family: inclusive;
+}
+
+.mainContainer a {
+    color: var(--blue-green);
+}
+
+.flexRow {
+    display: flex;
+    gap: 12px;
+}
+
+.flexRow img {
+    width: 100%;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}

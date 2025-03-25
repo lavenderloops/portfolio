@@ -1,0 +1,34 @@
+@font-face {
+    font-family: inclusive;
+    src: url(../fonts/inclusive-sans/InclusiveSans-Regular.woff2);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: inclusive;
+    src: url(../fonts/inclusive-sans/InclusiveSans-Bold.woff2);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: inclusive;
+    src: (url(../fonts/inclusive-sans/InclusiveSans-Light.woff2));
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: inclusive;
+    src: url(../fonts/inclusive-sans/InclusiveSans-Medium.woff2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: inclusive;
+    src: url(../fonts/inclusive-sans/InclusiveSans-SemiBold.woff2);
+    font-weight: 800;
+    font-style: normal;
+}

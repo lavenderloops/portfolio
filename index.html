@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>khatiti harper | graphic design & illustration</title>
+        <link rel="icon" type="image/x-icon" href="/images/icons/favicon.gif">
+        <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+        <link href="css/fonts.css" rel="stylesheet" type="text/css" media="all">
+    </head>
+</html>
+
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <div class="text"><strong>Hi, I'm Khatiti</strong> - a graphic designer and illustrator who specializes in elevating brands by creating cohesive designs that reflect their values, goals, and vision. 
+                <p>I am passionate about supporting:</p>
+            </div>
+            <button type="button" class="collapsible">non-profits</button>
+            <div class="content">
+                <p>
+                    As a queer black creative I am someone who values centering rest and black joy in my work, and embodies that through my aesthetic and design practice. I believe the power of play extends beyond games, and I'm excited to collaborate with teams and organizations creating positive change in the world.
+                </p>
+            </div>
+            <button type="button" class="collapsible">small teams and individuals</button>
+            <div class="content">
+                <p>
+                    I’m passionate about supporting small businesses. I believe in their ability to foster diversity, strengthen communities, and circulate wealth locally. I’m committed to helping these businesses thrive with strong, impactful visual branding that makes them stand out.
+                </p>
+            </div>
+        </div>
+        <div class="mainContainer">
+            <h1>recent projects</h1>
+                
+                <div class="flexRow">
+                    <div class="project">
+                        <h3>game devs of color expo</h3>
+                        <img src="images/gdoc/design-theme/NewsletterHeader.png" alt="">
+                        <a href="gdoc.html">view more</a>
+                    </div>
+                
+                <div>
+                    <div class="project">
+                        <h3>chinese culture center of sf</h3>
+                        <img src="images/cccsf/hgf-banner.png" alt="">
+                        <a href="cccsf.html">view more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+            content.style.display = "none";
+            } else {
+            content.style.display = "block";
+            }
+        });
+        }
+    </script>
+</body>
