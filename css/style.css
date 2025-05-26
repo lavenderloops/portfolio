@@ -84,6 +84,7 @@ body {
 .socials {
     display: flex;
 }
+
 .socials a {
     color: var(--bright-grey);
     text-decoration: none;
