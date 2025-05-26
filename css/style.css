@@ -10,22 +10,21 @@
     --pale-silver: #D1CBB4;
 }
 
+body {
+    background-color: var(--eerie);
+    font-family: inclusive;
+}
+
 .wrapper {
     max-width: 600px;
-    margin-top: 48px;
+    margin: auto;
     padding: 12px;
-    background-color: var(--eerie);
     color: var(--bright-grey)
 }
 
-.header {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-}
-
-.header>.text, .content {
-    font-family: inclusive;
+.heading > h1 {
+    font-family: heal-web;
+    letter-spacing: 1px;
 }
 
 .collapsible {
@@ -72,3 +71,30 @@
     flex-direction: column;
     gap: 8px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px dashed var(--dim-grey);
+
+    font-size: 12px;
+}
+
+.socials {
+    display: flex;
+}
+.socials a {
+    color: var(--bright-grey);
+    text-decoration: none;
+    padding: 4px;
+}
+
+.socials a:hover {
+    background-color: var(--charleston);
+}
+
+/* .socials li {
+    padding-right: 8px;
+    list-style-type: none;
+} */

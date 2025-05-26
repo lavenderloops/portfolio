@@ -32,3 +32,8 @@
     font-weight: 800;
     font-style: normal;
 }
+
+@font-face {
+    font-family: heal-web; 
+    src: url(../fonts/HealTheWebA-Regular.otf);
+}
