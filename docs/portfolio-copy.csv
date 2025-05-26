@@ -1,23 +1,79 @@
-code,order,dates,project,title,overview,role/contributions,process,Challenges & Solutions,Outcomes/Impact,Gallery 1 Description,Gallery 2 Description
-ccc-0,0,2023-2024,Multi-platform marketing design,Chinese Culture Center of SF,"Designed a cohesive suite of print and digital materials (social media, email, web) to promote events for the Chinese Culture Center of San Francisco, focusing on community engagement and arts outreach. ",Communications assistant,"Tools: Canva, Adobe Photoshop, Illustrator, and InDesign, Mailchimp, Meta Business Suite, Wix",,,"<h6 class=""font_6"">Hungry Ghost Festival</h6>
-<p class=""font_9"">Created designs for print, social media, and web to promote annual music festival.</p>","<h5 class=""font_5"">Development Calendar</h5>
-<p class=""font_8"">Designed a brochure for supporters of the organization, notifying them of upcoming evengs.</p>"
-ccc-1,1,2023-2024,Multi-platform marketing design,Chinese Culture Center of SF,"Developed key visuals for the 2023 fundraising gala, crafting a dynamic and unified visual identity that aligned with the event’s theme. ",Graphic design lead,"Tools: Adobe Illustrator, InDesign, Wix",,,"<h6 class=""font_6"">Moodboard / Iterations</h6>
-<p class=""font_9"">The theme for 2023's gala was electric connections. Visual inspiration was drawn from contepmorary Hong Kong graphic designers. Early iterations and sketches I played with ideas of circuitry, connection, and imagery based on the map of SF's Chinatown.&nbsp;</p>","<h5 class=""font_5"">Final Design</h5>"
-gdoc-0,2,2024-Present,Multi-platform marketing design,Game Devs of Color Expo,"Created the visual identity for Game Devs of Color Expo’s annual conference, ensuring consistency with the year’s themes and goals. ",Graphic design lead,"Tools: Illustrator, Photoshop, Figma
-1. Moodboard
-2. Sketches/Iterations",,"“You’ve really helped us uplevel our visual presence, thank you for all your graphic design work this year!” – co-director of org
-
-Thanks for making all of the adjustments—there have been many. You do a great job taking feedback while maintaining the integrity of your compositions. - Brian 
-","<h5 class=""font_5"">2025 Design Style</h5>
-<p class=""font_8"">Overview</p>
-<p class=""font_9"">The GDoCExpo needs a bold new design for 2025. We aim to communicate our resilience, determination, and diversity while navigating a games industry in turmoil.</p>","<h5 class=""font_5"">2024 Press Kit</h5>"
-gdoc-1,3,2024-Present,Illustration,Game Devs of Color Expo,"Illustrated playful and engaging artwork for monthly newsletters, enhancing readability and boosting audience engagement. ",Illustrator,"Tools: Illustrator, Procreate, Aseprite
-2024 – Inspired by games created by community members
-2025 – inspired by pixel art and video game UI",,,"<h5 class=""font_5"">2025</h5>","<h5 class=""font_5"">2024</h5>"
-gdoc-2,4,2024-Present,Social media graphics,Game Devs of Color Expo,Designed a series of YouTube thumbnails that established a cohesive channel aesthetic and increased clickthrough rates. ,Graphic design lead,"Tools: Figma, Asana
-Researched psychology behind what makes an effective youtube thumbnail, occasionally create multiple options for A/B testing","As this is a collaborative process between myself and the social media manager, my project management skills have been a useful tool in keeping to deadlines/posting dates created by my teammate as I use Asana to track timelines.",,"<h5 class=""font_5"">2025</h5>","<h5 class=""font_5"">2024</h5>"
-sim-0,5,2024,Illustration,Simmerthingz / @thesimmerthing ,"Developed a set of illustrations for Simmerthingz, a gaming content creator, including emotes, Twitch alerts, and a motion graphic for a YouTube outro.  his included emotes, twitch alerts, and a youtube outro motion graphic.",Illustrator,"Tools: Procreate, DaVinci Studio, Adobe AfterEffects
-Client provided reference images and we worked together to create pieces that matched their vision","This was my first project working with motion graphics, I was very grateful to Simmerthingz and their patience with me as I learned new software as I worked on this project. Solution was open communication and being receptive to feedback, as well as spending personal time experimenting and researching the software.","“You did it!! I love working with you, you’ve made my stream stuff so much better!”","<h5 class=""font_5"">References / Sketches</h5>","<h5 class=""font_5"">Final Designs</h5>"
-gdoc-3,6,2025,Multi-platform marketing design,Game Devs of Color Expo,Created streaming overlays and social media designs promoting fundraising event,Graphic design lead,"Tools: Adobe Illustrator, Figma",,,,
-,7,,,,,,,,,,
+folder,file,copy,alt
+about me,art-market,,"Khatiti at an outdoor market table, displaying a selection prints and stickers. A sign indicates a free block printing station offered by the artist. "
+about me,bg3,"currently playing
+Baldur’s Gate 3",Cover art for Baldur’s Gate 3
+about me,cibomatto,"currently listening
+Stereo Type A – Cibo Matto",Album cover for Stereo Type A by Cibo Matto
+about me,glitchfem,"currently reading
+glitch feminism – Legacy Russell",Book cover for glitch feminism by Legacy Russell
+about me,lavender,,Khatiti wearing a lavender dress in a lavender field
+about me,moonside-screenshot,"personal project
+learning html/css to build a personal website ","A screenshot of VS Code, showing the html and preview of Khatiti’s personal website, moonside inn."
+about me,mushroom,,Khatiti kneeling by a cluster of mushrooms
+about me,portrait-study,"sketchbook
+portrait studies from morpho anatomy for artists",A set of six portrait illustrations of different characters
+about me,profile,,Khatiti smiling with two bun buns and clips in their hair
+ccc-2023Gala,gala-banner,,
+ccc-2023Gala,gala-brochure_mockup,,
+ccc-2023Gala,gala-brochure_mockup1,,
+ccc-2023Gala,gala-brochure_mockup2,,
+ccc-2023Gala,gala-sign,,
+ccc-2023Gala,gala-sketch,,
+ccc-2023Gala,gala-sketch1,,
+ccc-2023Gala,gala-sketch2,,
+ccc-2023Gala,gala-sketch3,,
+ccc-2023Gala,gala-sketch4,,
+ccc-2023Gala,gala-sketch5,,
+ccc-2023Gala,gala-sketch6,,
+ccc-outreach,devCal-1,,
+ccc-outreach,devCal-2,,
+ccc-outreach,devCal-3,,
+ccc-outreach,devCal-4,,
+ccc-outreach,ghostFest-1,,
+ccc-outreach,ghostFest-2,,
+ccc-outreach,ghostFest-banner,,
+ccc-outreach,ghostFest-bus,,
+ccc-outreach,ghostFest-socialMockup,,
+gdoc-expo,date-announce,,
+gdoc-expo,newsletter-header,,
+gdoc-expo,speaker-apply,,
+gdoc-expo,tickets-newsletter,,
+gdoc-fundraiser,apply-now,,
+gdoc-fundraiser,apply-now1,,
+gdoc-fundraiser,brb,,
+gdoc-fundraiser,ending,,
+gdoc-fundraiser,overlay,,
+gdoc-fundraiser,social-horiz,,
+gdoc-fundraiser,social-sq,,
+gdoc-fundraiser,starting-soon,,
+gdoc-newsletter,apr24,,
+gdoc-newsletter,apr25,,
+gdoc-newsletter,dec24,,
+gdoc-newsletter,feb25,,
+gdoc-newsletter,jan25,,
+gdoc-newsletter,jun24,,
+gdoc-newsletter,mar25,,
+gdoc-newsletter,may25,,
+gdoc-newsletter,mockup24,,
+gdoc-newsletter,mockup25,,
+gdoc-newsletter,nov24,,
+gdoc-newsletter,oct24,,
+gdoc-youtube,mockup24,,
+gdoc-youtube,mockup25,,
+gdoc-youtube,yt24-0,,
+gdoc-youtube,yt24-1,,
+gdoc-youtube,yt24-2,,
+gdoc-youtube,yt24-3,,
+gdoc-youtube,yt24-4,,
+gdoc-youtube,yt24-key,,
+gdoc-youtube,yt25-0,,
+gdoc-youtube,yt25-1,,
+gdoc-youtube,yt25-2,,
+gdoc-youtube,yt25-3,,
+gdoc-youtube,yt25-4,,
+gdoc-youtube,yt25-key,,
+simmerthingz,emote-evil,,
+simmerthingz,emote-heh,,
+simmerthingz,emote-hmm,,
+simmerthingz,emote-lol,,
+simmerthingz,outro-static,,
