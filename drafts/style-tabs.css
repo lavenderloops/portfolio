@@ -1,0 +1,68 @@
+.projectBox {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.projectBox > .projectTabs {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 4px;
+    padding-top: 12px;
+    
+}
+
+.projectTabs a {
+    padding: 12px;
+    border: 1px solid var(--dark-violet);
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    transition: font-size .5s;
+    border-radius: 2px;
+}
+
+.projectTabs .normal a {
+    background-color: var(--dark-violet);
+    color: var(--bright-grey);
+}
+
+.projectTabs .selected a {
+    color: var(--eerie);
+    background-color: var(--violet);
+    border: 1px solid var(--violet);
+    font-weight: bolder;
+}
+
+.projectTabs a:hover {
+    color: var(--bright-grey);
+    background-color: var(--eerie);
+    border: 1px solid var(--violet);
+    font-size: 16px;
+    font-weight: normal;
+}
+
+/* avail */
+
+.avail {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-image: url(/images/index/avail.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: var(--eerie);
+    text-align: center;
+    box-shadow: 2px 2px var(--dark-violet);
+}
+
+.avail h2 {
+    font-family: heal-web;
+}
+
+.avail>.text {
+    width: 320px;
+    margin: auto;
+    padding: 8px;
+    line-height: 12px;
+}
