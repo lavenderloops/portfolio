@@ -13,6 +13,9 @@
 
 body {
     background-color: var(--eerie);
+    background-image: url(../images/texture.png);
+
+    
     font-family: inclusive;
 }
 
@@ -21,7 +24,38 @@ body {
     max-width: 600px;
     margin: auto;
     padding: 12px;
-    color: var(--bright-grey)
+    color: var(--bright-grey);
+
+    background-color: var(--eerie);
+    border-left: 1px solid rgba(0, 0, 0, 0.171);
+    border-right: 1px solid rgba(0, 0, 0, 0.171);
+}
+/* navigation */
+.topBar {
+    background-color: var(--eerie);
+    padding: 12px;
+    border-bottom: 1px dashed var(--charleston);
+}
+.navi {
+    display: flex;
+    justify-content: right;
+    gap: 12px;
+    min-width: 320px;
+    max-width: 600px;
+    margin: auto;
+
+    
+}
+
+.navi a {
+    color: var(--bright-grey);
+    text-decoration: none;
+    transition: .5s ease;
+}
+
+.navi a:hover {
+    font-size: 18px;
+    text-decoration: underline;
 }
 
 /* header */
@@ -98,6 +132,35 @@ body {
 .contact .text {
     line-height: 12px;
 }
+
+/* about */
+
+.about {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    align-items:start;
+    padding-bottom: 12px;
+}
+
+.profilePic {
+    grid-column: span 2 / span 2;
+}
+
+.profilePic img {
+    width: 100%;
+}
+
+.profileText {
+    grid-column: span 3 / span 3;
+    grid-column-start: 3;
+    padding-left: 8px;
+}
+
+div img {
+    width: 100%;
+}
+
 /* footer */
 
 .footer {
@@ -115,11 +178,12 @@ body {
     color: var(--bright-grey);
     text-decoration: none;
     padding: 4px;
+    transition: .5s ease;
 }
 
 .socials a:hover {
-    background-color: var(--charleston);
-}
+    font-size: 13px;
+    text-decoration: underline;}
 
 
 @media screen and (max-width: 400px) {
