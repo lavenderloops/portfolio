@@ -42,12 +42,11 @@ body {
 .navi {
     display: flex;
     justify-content: right;
+    align-items: center;
     gap: 12px;
     min-width: 320px;
     max-width: 900px;
-    margin: auto;
-
-    
+    margin: auto; 
 }
 
 .navi a {
@@ -59,6 +58,19 @@ body {
 .navi a:hover {
     font-size: 18px;
     text-decoration: underline;
+}
+
+.naviExpanded {
+    background-color: var(--charleston);
+    border-bottom: 1px solid var(--dim-grey);
+    padding: 8px;
+    width: fit-content;
+    display: flex;
+    gap: 12px
+}
+
+.navi #highlight{
+    color: var(--violet);
 }
 
 /* header */
